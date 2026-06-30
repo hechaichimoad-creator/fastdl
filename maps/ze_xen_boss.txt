@@ -1,0 +1,31 @@
+Xen \ Zombie Escape - Boss
+
+Map by Caner "OVANDOD" Turhan
+
+Release Date : 30.10.2021
+
+Bug Reports
+Discord : OVANDOD#3319
+canerturhan43@gmail.com
+
+My Mapping Community
+https://discord.gg/TTSNrVgFAP
+
+Credits
+
+Level Designer
+Caner "OVANDOD" TURHAN
+
+Boss Plugin Programmer
+z0h1r-LK
+
+Texture Packages by
+Valve
+Caner Turhan
+
+Softwares Used
+Wally
+J.A.C.K.
+Sprite Explorer
+VHLT V34 Compilation Tools
+RESGen

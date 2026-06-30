@@ -1,0 +1,26 @@
+ze_campescape_b4 - Zombie Escape
+remake by Arn1_95
+Email: (oleg.semchuk95@gmail.com)
+Steam: http://steamcommunity.com/id/arntomk/
+Discord: Arn1.95(OLEG)#0262
+
+Counter-Terrorists: People should escape from Zombie
+And to fly on the helicopter.
+
+Terrorists: Zombie should kill all people.
+
+Other Notes: Run-Run-Run
+
+(Press FIRE to continue)
+
+----------------------------------------
+//Detail Textures
+To enable detail textures, enter in the console:
+r_detailtextures "1"
+----------------------------------------
+
+My maps:
+zm_anthill_city
+ze_campescape_b4
+ze_escapeby_death_b8
+ze_labs_076R
